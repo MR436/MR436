@@ -1,16 +1,23 @@
 ### Hi there 👋
+Hi there! I am making career transition into Data Science with a passion for leveraging data to drive insights and decision-making. I have experience in various aspects of the data science lifecycle, including data collection, pre-processing, modeling, and visualization.
 
-<!--
-**MR436/MR436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a data centralisation project
+- 🌱 I’m currently learning TensorFlow 
+- 👯 I’m looking to collaborate on any machine learning related projects
+
+SKILLS:
+•	Data analysis and visualization
+•	Machine learning
+•	Predictive modeling
+•	Statistical analysis
+•	Big data technologies
+
+Education
+- AiCore Data Science spcialisation 
+- Data Science and Analytics from University of Westminster, 2022
+
+
+
+
