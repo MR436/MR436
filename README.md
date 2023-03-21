@@ -8,6 +8,7 @@ In recent years, I have become increasingly interested in the field of data scie
 I am committed to staying at the forefront of industry trends and techniques and have completed numerous courses and certifications in data science, statistics, and machine learning. I am also proficient in a range of data analysis tools and programming languages, including Python, SQL, Tableau
 
 Successful Projects :
+
 -Computer Vision Rock-Paper-Scissors (RPS) project, in which the user trained a computer vision model. The model detects whether the user shows Rock, Paper, or Scissors to the camera, so the user can leverage that output to play an RPS game with the computer.
 
 -Airbnb Listing project,  which develop a multitude of  classification & regression models and compare their performance across different use cases.  
@@ -15,6 +16,7 @@ Successful Projects :
 -Data Centralisation project, transforming and analysing large datasets from multiple data sources. By utilising the power of Pandas,  clean the data, and produce a STAR based database schema for optimised data storage and access. The project also builds complex SQL-based data queries, allowing to extract valuable insights and make informed decisions. This project provide the user with the experience of building a real-life complete data solution, from data acquisition to analysis, all in one place. 
 
 SKILLS:
+
 •	Proficient in SQL, Python
 •	Experienced with data visualisation tools as matplotlib, tableau, looker
 -In the midst of taking Power BI Data Analyst certification
